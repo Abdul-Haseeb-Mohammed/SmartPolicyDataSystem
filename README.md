@@ -10,7 +10,6 @@
     <ul>
       <li>JSON files: Policy data (updated daily).</li>
       <li>CSV files: Customer information (updated daily).</li>
-      <li>Azure SQL Table: Full & Incremental Data Load.</li>
     </ul>
   </li>
   <li><strong>Azure Data Factory (ADF)</strong>: Pipelines for orchestrating data workflows.</li>
@@ -71,6 +70,6 @@ goldenlayer/{AggregatedData}            # Aggregated query results
 <h2>High-Level Architecture and Implementation</h2>
 <p>Below are the diagrams illustrating the high-level architecture and project implementation:</p>
 <ul>
-  <li><img src="https://drive.google.com/file/d/185JZ43LNl2mk1xEwDNEYWUWzg0bc8rOt/view?usp=drive_link" alt="High-Level Architecture" /></li>
-  <li><img src="https://drive.google.com/file/d/1ftN_PvHilpdBkEL4sux7HBv4Pj7KRcqE/view?usp=drive_link" alt="Project Implementation" /></li>
+  <li><img src="https://drive.google.com/uc?id=185JZ43LNl2mk1xEwDNEYWUWzg0bc8rOt" alt="High-Level Architecture" /></li>
+  <li><img src="https://drive.google.com/uc?id=1ftN_PvHilpdBkEL4sux7HBv4Pj7KRcqE" alt="Project Implementation" /></li>
 </ul>
