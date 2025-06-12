@@ -4,8 +4,7 @@
 <p>The <strong>Smart Policy Data System</strong> is a comprehensive data engineering project designed to streamline policy data integration, transformation, and analysis. This project leverages modern data engineering tools and best practices to create a robust three-layered (Bronze/Silver/Gold) architecture, ensuring data quality, consistency, and scalability.</p>
 
 <h2>Problem Statement</h2>
-<p>Problem Statement
-Insurance companies collect large amounts of policy data from various sources like agents, online forms, mobile apps, and customer service calls. However, this data is often incomplete, outdated, or contains errors, making it difficult to trust and use for risk analysis, claims processing, or customer insights. This project addresses the issue of Iow data veracity in insurance policy records.
+<p>Insurance companies collect large amounts of policy data from various sources like agents, online forms, mobile apps, and customer service calls. However, this data is often incomplete, outdated, or contains errors, making it difficult to trust and use for risk analysis, claims processing, or customer insights. This project addresses the issue of Iow data veracity in insurance policy records.
 Using Azure Cloud and Big Data technologies, the project aims to clean, validate, and manage policy
 data more accurately and efficiently, ensuring that decision-making is based on reliable and up-to-date information.</p>
 
